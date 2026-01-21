@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Fake Job Detector V1 (Base)",
+  "version": "1.0",
+  "description": "A basic extension to detect fake job descriptions using a Naive Bayes model.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
