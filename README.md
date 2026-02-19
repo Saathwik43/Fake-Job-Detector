@@ -1,4 +1,4 @@
-# Fake Job Detector V1
+# Fake Job Detector Version 0.1
 
 ## Overview
 
